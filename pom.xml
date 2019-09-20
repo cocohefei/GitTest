@@ -18,6 +18,7 @@
 	</dependency>
   </dependencies>
 
+    <!--增加Maven插件工具-->
     <build>
         <plugins>
             <plugin>
